@@ -4,5 +4,6 @@
     <string name="hello">Hello World, FirstAndroidAppActivity!</string>
     <string name="app_name">FirstAndroidApp</string>
     <color name="myColor">#3399CC</color>
+    <string name="Bye">88</string>
 
 </resources>
